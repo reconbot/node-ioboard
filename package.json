@@ -11,7 +11,7 @@
 		"url": "git://github.com/achingbrain/node-ioboard.git"
 	},
 	"dependencies": {
-		"winston": ">=0.7.2"
+		"winston": ">=2.4.2"
 	},
 	"devDependencies": {
 
